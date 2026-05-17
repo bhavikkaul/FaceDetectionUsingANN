@@ -4,7 +4,7 @@
 
 AI-powered face detection system built using Python, OpenCV, and libfacedetection.
 
-<img src="face_detection_result.jpg" width="700"/>
+<img src="libfacedetection-master/images/cnnresult.png" width="700"/>
 
 </div>
 
